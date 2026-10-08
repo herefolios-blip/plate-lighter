@@ -13,12 +13,3 @@ Load a plate, describe your studio and kit, and the app proposes where each ligh
 - **File** menu: save in this browser, export or import a project file to share, or export a plan image (PNG).
 
 Saved projects live in each person's own browser. To share one, use *Export file* and send it to a colleague, who can use *Import file*.
-
-## Hosting (GitHub Pages)
-1. Create a repository and upload `index.html` (and this README).
-2. Go to **Settings, Pages**, choose **Deploy from a branch**, pick `main` and `/ (root)`, then save.
-3. After a minute or two the site is live at `https://YOUR-USERNAME.github.io/REPO-NAME/`.
-
-To update the app later, upload a new `index.html` over the old one.
-
-The app is a single file with no build step and no server. It loads fonts from Google Fonts and needs nothing else.
